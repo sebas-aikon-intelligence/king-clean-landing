@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Image from "next/image";
 
 const WHATSAPP_NUMBER = "573222898383";
@@ -9,16 +9,8 @@ const WHATSAPP_MESSAGE = encodeURIComponent(
 );
 
 export default function Header() {
-  const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
 
   const navLinks = [
     { href: "#servicios", label: "Servicios" },
@@ -28,12 +20,8 @@ export default function Header() {
   ];
 
   return (
-    <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
-        ? "bg-white/95 backdrop-blur-md shadow-md py-2"
-        : "bg-transparent py-4"
-        }`}
-    >
+    <header className="absolute top-0 left-0 right-0 z-50 py-4">
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           {/* Logo */}
@@ -42,7 +30,7 @@ export default function Header() {
             className="flex items-center gap-2 cursor-pointer"
             aria-label="King Clean - Inicio"
           >
-            <div className="relative w-40 h-20 sm:w-60 sm:h-28">
+            <div className="relative w-52 h-24 sm:w-80 sm:h-36">
               <Image
                 src="/logo.png"
                 alt="King Clean Logo"

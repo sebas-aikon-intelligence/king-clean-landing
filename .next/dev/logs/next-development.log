@@ -60,3 +60,36 @@ It can also happen if the client has a browser extension installed which messes 
 [01:16:35.928] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [01:28:36.484] Server  LOG     ✓ Compiled in 603ms
 [01:28:46.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:15.138] Server  LOG     ✓ Compiled in 554ms
+[01:35:18.721] Server  LOG     ✓ Compiled in 129ms
+[01:35:29.007] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:29.308] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:35.885] Server  LOG     ✓ Compiled in 81ms
+[01:35:38.237] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:38.731] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:43.670] Server  LOG     ✓ Compiled in 229ms
+[01:35:46.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:46.502] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:54.789] Server  LOG     ✓ Compiled in 134ms
+[01:35:56.022] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:56.317] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:36:08.187] Server  LOG     ✓ Compiled in 84ms
+[01:36:09.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:10.321] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:36:15.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:15.905] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:36:16.468] Server  LOG     ✓ Compiled in 108ms
+[01:36:55.705] Server  LOG     ✓ Compiled in 1241ms
+[01:45:53.073] Server  LOG     ✓ Compiled in 364ms
+[01:45:55.058] Server  LOG     ✓ Compiled in 398ms
+[01:46:15.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:19.280] Server  LOG     ✓ Compiled in 1237ms
+[02:02:17.190] Server  LOG     ✓ Compiled in 727ms
+[02:02:50.458] Server  LOG     ✓ Compiled in 62ms
+[02:07:22.148] Server  LOG     ✓ Compiled in 374ms
+[02:07:38.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:24:08.104] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:24:08.450] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:48.838] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/car-cleaning-closeup.jpg" "received" null
+[02:24:49.028] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/car-cleaning-closeup.jpg" "received" null
+[02:25:20.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

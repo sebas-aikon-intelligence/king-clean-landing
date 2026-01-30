@@ -132,7 +132,7 @@ const serviceCategories = [
   {
     id: "vehiculos",
     name: "Vehículos",
-    image: "/car-upholstery-bogota.jpg",
+    image: "/car-cleaning-closeup.jpg",
     icon: (
       <svg
         className="w-6 h-6"
