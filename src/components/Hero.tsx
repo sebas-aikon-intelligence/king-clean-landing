@@ -185,8 +185,8 @@ export default function Hero() {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-text-primary">Garantía 24h</p>
-                  <p className="text-sm text-text-secondary">Foto Real</p>
+                  <p className="font-bold text-text-primary">Servicio a Domicilio</p>
+                  <p className="text-sm text-text-secondary">Rápido y confiable</p>
                 </div>
               </div>
 
