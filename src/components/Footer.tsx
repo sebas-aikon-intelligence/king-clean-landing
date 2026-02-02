@@ -124,11 +124,6 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-gray-400 text-sm">
               <li>
-                <a href="#precios" className="hover:text-white transition-colors cursor-pointer">
-                  Precios
-                </a>
-              </li>
-              <li>
                 <a href="#faq" className="hover:text-white transition-colors cursor-pointer">
                   Preguntas Frecuentes
                 </a>

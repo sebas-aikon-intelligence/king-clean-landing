@@ -151,11 +151,11 @@ const serviceCategories = [
     services: [
       {
         name: "Interior Carro",
-        description: "Tapicería, alfombras y techo",
+        description: "Techo, sillas, piso, carteras, pilares y organización del baúl",
       },
       {
-        name: "Interior Camioneta",
-        description: "Limpieza completa SUV/Camioneta",
+        name: "Interior Camioneta/SUV",
+        description: "Limpieza completa con el mismo proceso detallado",
       },
     ],
   },
