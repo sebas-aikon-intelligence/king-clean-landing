@@ -2,7 +2,7 @@ import Image from "next/image";
 // Force refresh
 
 
-const WHATSAPP_NUMBER = "573222898383";
+const WHATSAPP_NUMBER = "573209571026";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hola King Clean, tengo mascotas y necesito eliminar olores y manchas de orina. ¿Pueden ayudarme?"
 );
