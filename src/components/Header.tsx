@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 
-const WHATSAPP_NUMBER = "573222898383";
+const WHATSAPP_NUMBER = "573209571026";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hola King Clean, me gustaría cotizar el servicio de limpieza. ¿Podrían ayudarme?"
 );
