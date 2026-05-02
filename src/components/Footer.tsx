@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const WHATSAPP_NUMBER = "573222898383";
+const WHATSAPP_NUMBER = "573209571026";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
