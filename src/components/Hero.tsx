@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const WHATSAPP_NUMBER = "573222898383";
+const WHATSAPP_NUMBER = "573209571026";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hola King Clean, quiero cotizar el servicio de limpieza para mi hogar. ¿Me pueden ayudar?"
 );
