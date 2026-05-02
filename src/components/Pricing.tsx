@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "573222898383";
+const WHATSAPP_NUMBER = "573209571026";
 const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hola King Clean, quiero conocer los precios para el servicio de limpieza. ¿Pueden enviarme la lista de precios?"
 );
